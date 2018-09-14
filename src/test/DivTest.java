@@ -10,8 +10,8 @@ class DivTest {
 	@Test
 	public void divisionTest() {
 	
-		 int result = FunKw.division(4,2);
-	        int expectedResult = 2;
+		 int result = FunKw.division(4,3);
+	        int expectedResult = 3;
 	        assertEquals(result, expectedResult);
 	        
 	}
